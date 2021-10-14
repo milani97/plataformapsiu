@@ -122,6 +122,13 @@ a.turquoise {
 a.white {
 	color: #fff;
 }
+span.white{
+	color: #fff;
+}
+h1.white{
+	color: #fff;
+	font: 700 3rem/3.5rem "Raleway", sans-serif;
+}
 
 .testimonial-text {
 	font: italic 400 1rem/1.5rem "Raleway", sans-serif;
@@ -838,6 +845,9 @@ input[type='checkbox'] {
 .cards-1 .card-body {
 	padding: 0;
 }
+.card-3 {
+	padding-bottom: 3.4rem !important;
+}
 
 
 /*************************/
@@ -850,6 +860,10 @@ input[type='checkbox'] {
 
 .basic-1 .text-container {
 	margin-bottom: 4rem;
+}
+
+.basic-1 .image-container {
+	margin-top: 3rem;
 }
 
 .basic-1 h2 {
@@ -1146,7 +1160,9 @@ input[type='checkbox'] {
 .form-1 .list-unstyled .media-body {
 	margin-left: 0.625rem;
 }
-
+.form-1 .form-container {
+	margin-top: 3rem;
+}
 .form-1 .text-container {
 	margin-bottom: 3.5rem;
 }
