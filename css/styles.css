@@ -119,10 +119,10 @@ a.turquoise {
 	color: #00bfd8;
 }
 
-a.white {
-	color: #fff;
+a.black {
+	color: rgb(0, 0, 0);
 }
-span.white{
+span.whitespan{
 	color: #fff;
 }
 h1.white{
