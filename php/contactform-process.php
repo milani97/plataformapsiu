@@ -26,10 +26,10 @@ if (empty($_POST["terms"])) {
 }
 
 $EmailTo = "felipe.s.milani@gmail.com";
-$Subject = "Nova mensagem página da PSIU";
+$Subject = "New message from Evolo landing page";
 
 // prepare email body text
-// $Body = "";
+$Body = "";
 $Body .= "Name: ";
 $Body .= $name;
 $Body .= "\n";
