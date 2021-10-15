@@ -29,7 +29,7 @@ $EmailTo = "felipe.s.milani@gmail.com";
 $Subject = "Nova mensagem página da PSIU";
 
 // prepare email body text
-$Body = "";
+// $Body = "";
 $Body .= "Name: ";
 $Body .= $name;
 $Body .= "\n";
